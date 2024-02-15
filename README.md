@@ -1,5 +1,7 @@
 # Audio Book - V2
 
+![Audio Livro - 127 0 0 1](https://github.com/gabrielucasantos/audio-book_V2/assets/132011614/5e23841b-f229-4706-af7f-fa821dc57a34)
+
 **Boas novas, pessoal!**<br><br>
 O projeto do audiobook está a todo vapor e estou empolgado em compartilhar os avanços que fiz até agora!
 <br><br>
